@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "teja.prop2.valu",
+    "type": "java.lang.String",
+    "description": "A description for 'teja.prop2.valu'"
+  },
+  {
+    "name": "teja.prop1.valu",
+    "type": "java.lang.String",
+    "description": "A description for 'teja.prop1.valu'"
+  }
+]}
